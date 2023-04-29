@@ -14,7 +14,7 @@ We only collect Discord User IDs and the command usage for leaderboard. We do no
 We will not be offering refunds for any paid commands unless the team believes your reasoning.
 
 ## APIs
-The APIs we use are available to the public, and you can use our API if you wish at https://api.jhhspace.com/. Please note that the API link might change or migrate on a later date. An announcement will be made on our Discord server when this change happens.
+The APIs we use are available to the public, and you can use our API if you wish at https://api.nekogirl.net/. Please note that the API link might change or migrate on a later date. An announcement will be made on our Discord server when this change happens.
 
 ## Third-Party Links and Services
 Our bot may contain links to third-party web sites or services that are not owned or controlled by Jhhspace Inc.

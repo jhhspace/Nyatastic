@@ -1,5 +1,5 @@
 # Privacy Policy
-##### Last updated: 23/04/2023
+##### Last updated: 19/05/2023
 
 Jhhspace Inc. ("us", "we", or "our") operates Nyatastic (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
@@ -14,6 +14,8 @@ We only collect Discord User IDs and the command usage for leaderboard. We do no
 
 ## Log Data
 We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+
+We log every suggestions you sent via our Service, or by our support server. Please note that we reserve the rights to blacklist you from using our Service if we find anything that is deemed rule breaking, or violating Discord's TOS and Privacy Policy.
 
 ## Cookies
 Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.

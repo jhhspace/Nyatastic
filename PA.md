@@ -1,5 +1,5 @@
 # Privacy Policy
-##### Last updated: 19/05/2023
+##### Last updated: 14/09/2023
 
 Jhhspace Inc. ("us", "we", or "our") operates Nyatastic (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
@@ -15,7 +15,7 @@ We only collect Discord User IDs and the command usage for leaderboard. We do no
 ## Log Data
 We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-We log every suggestions you sent via our Service, or by our support server. Please note that we reserve the rights to blacklist you from using our Service if we find anything that is deemed rule breaking, or violating Discord's TOS and Privacy Policy.
+We log every suggestions you sent via our Service, or by our support server. Please note that we reserve the rights to blacklist you from using our Service if we find anything that is deemed rule breaking, or violating [Discord's TOS](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
 
 ## Cookies
 Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.
@@ -34,8 +34,8 @@ We have no control over and assume no responsibility for the content, privacy po
 
 ## Children's Privacy
 Our Service does not address anyone under the age of 13 ("Children").
-Please note that you **MUST** be 13 and above to use the bot, as per Discord TOS
-We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children without verification of parental consent, we will take steps to remove that information from our servers.
+Please note that you **MUST** be 13 and above to use the bot, as per [Discord Terms of Service/Usage](https://discord.com/safety/360044149591-answering-parents-and-educators-top-questions#:~:text=Discord's%20Terms%20of%20Service%20require,legislation%20mandates%20an%20older%20age.).
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us at `pdpa@jhhspace.com`. If we become aware that we have collected Personal Information from Children without verification of parental consent, we will take steps to remove that information from our servers.
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at support@jhhspace.com or join our Discord server at https://discord.gg/YN29rYbPjJ 
+If you have any questions about this Privacy Policy, please contact us at `support@jhhspace.com` or join our [Discord server](https://go.nekogirl.net/)

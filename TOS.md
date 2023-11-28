@@ -1,5 +1,5 @@
 # Terms of Service ("Terms")
-##### Last updated: 14/09/2023
+##### Last updated: 28/11/2023
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Jhhspace Inc ("us", "we", or "our").
 
@@ -10,16 +10,25 @@ By accessing or using the Service, you agree to be bound by these Terms. If you 
 ## Data Collection
 We only collect Discord User IDs and the command usage for leaderboard. We do not sell your data to third parties as per PDPA (Personal Data Protection Act).
 
+Our Service does not collect data you sent to our AI Chatbot, Nyatastic do not have the meaning or rights to do so as well.
+
+When you access our website, [nekogirl.net](nekogirl.net), Cloudflare will log down your IP Address to determin if you are a robot or if you are part of a DDoS Botnet. Cloudflare might block your IP if you trigger their Cybersecurity solutions.
+
+## AI Chatbot
+When you use our Service's Chatbot, you are bound to [Meta LLAMA 2's Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/). If we have evidence of you abusing, or breaking Meta's Responsible use Guide, you will be indefinitely blacklisted from using our Service, till you make a support ticket in our [Support server](https://go.nekogirl.net/). We will determin if you should or should not be blacklisted. 
+
+Please make sure you follow [Discord's ToS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) when using the Chatbot, any mishaps that happens to your account when you use the Chatbot will not be under the responsibility of Jhhspace Inc.
+
 ## Refunds
 We will not be offering refunds for any membership unless the team believes your reasoning.
 
 ## APIs
-The APIs we use are available to the public, and you can use our API if you wish at https://api.nekogirl.net/.
+The APIs we use are available to the public, and you can use our API if you wish at [https://api.nekogirl.net/](https://api.nekogirl.net/).
 
 ## Third-Party Links and Services
 Our bot may contain links to third-party web sites or services that are not owned or controlled by Jhhspace Inc.
 
-Our domain names are nekogirl.net and jhhspace.com. Some of the domains listed might have subdomains such as api or rdct.
+Our domain names are [nekogirl.net](https://nekogirl.net) and [jhhspace.com](https://jhhspace.com/). Some of the domains listed might have subdomains such as api or rdct.
 
 We will not be responsible for any third-party actions taken on your account. Please contact the respective party for the actions taken on you.
 

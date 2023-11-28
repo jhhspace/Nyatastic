@@ -15,7 +15,7 @@ Our Service does not collect data you sent to our AI Chatbot, Nyatastic do not h
 When you access our website, [nekogirl.net](nekogirl.net), Cloudflare will log down your IP Address to determin if you are a robot or if you are part of a DDoS Botnet. Cloudflare might block your IP if you trigger their Cybersecurity solutions.
 
 ## AI Chatbot
-When you use our Service's Chatbot, you are bound to [Meta LLAMA 2's Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/). If we have evidence of you abusing, or breaking Meta's Responsible use Guide, you will be indefinitely blacklisted from using our Service, till you make a support ticket in our [Support server](https://go.nekogirl.net/). We will determin if you should or should not be blacklisted. 
+When you use our Service's Chatbot, you are bound to [Meta LLAMA 2's Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/). If we have evidence of you abusing, or breaking Meta's Responsible use Guide, you will be indefinitely blacklisted from using our Service, till you make a support ticket in our [Support server](https://go.nekogirl.net/). We will determine if you should or should not be blacklisted. 
 
 Please make sure you follow [Discord's ToS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) when using the Chatbot, any mishaps that happens to your account when you use the Chatbot will not be under the responsibility of Jhhspace Inc.
 

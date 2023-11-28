@@ -12,7 +12,7 @@ We only collect Discord User IDs and the command usage for leaderboard. We do no
 
 Our Service does not collect data you sent to our AI Chatbot, Nyatastic do not have the meaning or rights to do so as well.
 
-When you access our website, [nekogirl.net](https://ekogirl.net), Cloudflare will log down your IP Address to determine if you are a robot or if you are part of a DDoS Botnet. Cloudflare might block your IP if you trigger their Cybersecurity solutions.
+When you access our website, [nekogirl.net](https://nekogirl.net), Cloudflare will log down your IP Address to determine if you are a robot or if you are part of a DDoS Botnet. Cloudflare might block your IP if you trigger their Cybersecurity solutions.
 
 ## AI Chatbot
 When you use our Service's Chatbot, you are bound to [Meta LLAMA 2's Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/). If we have evidence of you abusing, or breaking Meta's Responsible use Guide, you will be indefinitely blacklisted from using our Service, till you make a support ticket in our [Support server](https://go.nekogirl.net/). We will determine if you should or should not be blacklisted. 

@@ -1,5 +1,5 @@
 # Terms of Service ("Terms")
-##### Last updated: 28/11/2023
+##### Last updated: 28/2/2024
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Jhhspace Inc ("us", "we", or "our").
 
@@ -28,15 +28,15 @@ The APIs we use are available to the public, and you can use our API if you wish
 ## Third-Party Links and Services
 Our bot may contain links to third-party web sites or services that are not owned or controlled by Jhhspace Inc.
 
-Our domain names are [nekogirl.net](https://nekogirl.net) and [jhhspace.com](https://jhhspace.com/). Some of the domains listed might have subdomains such as api or rdct.
+Our domain names are [nekogirl.net](https://nekogirl.net) and [jhhspace.com](https://jhhspace.com/). Some of the domains listed might have subdomains such as api, rdct or go.
 
 We will not be responsible for any third-party actions taken on your account. Please contact the respective party for the actions taken on you.
 
 ## Intellectual Property
-The logo and any pictures related to Nyatastic are strictly copyrighted. Please contact us at `support@jhhspace.com` if you have any inquiry about our bot.
+The logo and any pictures related to Nyatastic are strictly copyrighted. Please contact us at `ip@jhh.moe` if you have any inquiry about our bot.
 
 ## Changes
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. It is your responsibility to periodically check our Terms of Service
 
 ## Contact Us
-If you have any questions about these Terms, please contact us at `support@jhhspace.com` or on our [support server](https://go.nekogirl.net/)
+If you have any questions about these Terms, please contact us at `support@jhhspace.com` or on our [support server](https://discord.gg/zUjrHU4hVd)

@@ -39,4 +39,4 @@ The logo and any pictures related to Nyatastic are strictly copyrighted. Please 
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. It is your responsibility to periodically check our Terms of Service
 
 ## Contact Us
-If you have any questions about these Terms, please contact us at `support@jhhspace.com` or on our [support server](https://discord.gg/zUjrHU4hVd)
+If you have any questions about these Terms, please contact us at `support@jhh.moe` or on our [support server](https://discord.gg/zUjrHU4hVd)

@@ -1,5 +1,5 @@
 # Privacy Policy
-##### Last updated: 28/02/2024
+##### Last updated: 29/02/2024
 
 Jhhspace Inc. ("us", "we", or "our") operates Nyatastic (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at `support@jhh.moe` or join our [Discord server](https://go.nekogirl.net/)
+If you have any questions about this Privacy Policy, please contact us at `support@jhh.moe` or join our [Discord server](https://discord.gg/zUjrHU4hVd)
